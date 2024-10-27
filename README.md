@@ -1,12 +1,13 @@
 # Kai's Robotics Portfolio
 Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with experience in 3D modeling, computer vision, embedded systems, and robotics simulation. Below, you'll find detailed information on my primary projects. Feel free to explore the code and reach out with any questions or feedback.
 
-Table of Contents
+# Table of Contents
 Project 1: 3D Printed RC Car
 Project 2: Sticker Identification for Kid's Game
 Project 3: Humanoid Robot Modeled and Trained in Simulation (In Progress)
 Contact Information
-Project 1: 3D Printed RC Car
+
+# Project 1: 3D Printed RC Car
 Description:
 Designed and 3D-printed an RC car modeled after a real-sized automobile. The project aimed to replicate the design and function of a modern vehicle in a scaled-down version.
 
@@ -18,7 +19,7 @@ Motion Control: Implemented PID controllers for smooth steering and speed regula
 3D Printing & Assembly: Printed the components and successfully assembled them to create a functional prototype.
 Repository Link: 3D Printed RC Car Repository
 
-Project 2: Sticker Identification for Kid's Game in Nesters Market
+# Project 2: Sticker Identification for Kid's Game in Nesters Market
 Description:
 Developed a computer vision system to identify and differentiate stickers for a kid’s game as part of a project for Nesters Market. The goal was to enable a robotic or automated system to recognize stickers and trigger corresponding game actions.
 
@@ -29,7 +30,7 @@ Machine Learning: Trained a lightweight machine learning model to improve identi
 Real-World Testing: Deployed the system in a controlled environment at Nesters Market for live testing with children.
 Repository Link: Sticker Identification System Repository
 
-Project 3: Humanoid Robot Modeled and Trained in Simulation (In Progress)
+# Project 3: Humanoid Robot Modeled and Trained in Simulation (In Progress)
 Description:
 Currently working on designing and simulating a humanoid robot based on the Bruce robot from WESTWOOD Robotics. The project involves replicating the humanoid design and training the robot in a virtual simulation environment.
 
@@ -41,5 +42,5 @@ Reinforcement Learning: Training the robot to perform basic movements and tasks 
 Design Inspiration: The robot’s design and capabilities are inspired by the Bruce robot from WESTWOOD Robotics.
 Repository Link: Humanoid Robot Repository (In Progress)
 
-Contact Information
+# Contact Information
 Feel free to connect with me on LinkedIn or reach out via email@example.com. I’m always open to discussing robotics projects, collaboration opportunities, or answering any questions about my work.
