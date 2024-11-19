@@ -9,6 +9,21 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 - [Project 3: Humanoid Robot Modeled and Trained in Simulation (In Progress)](#project-3-humanoid-robot-modeled-and-trained-in-simulation-in-progress)
 - [Contact Information](#contact-information)
 
+## Competition 1: BCIT Engineering Competition 2024
+
+**Description:** Participated in the BCIT Engineering Competition (Junior Design), where the goal was to design and build a device to rescue a person ("Fed") from a high-rise building within 2 hours and 45 minutes. The project combined elements of industrial crane mechanisms and delta robot configurations for precision and efficiency.
+
+**Key Features & Technologies:**
+- **Delta Robot Gripper:** Designed a 2D delta robot-inspired gripper using drinking straws for flexibility and lightweight motion.
+- **Creative Material Usage:** Used paper clips as joints and reinforced long wooden dowels with cardboard and glue to construct sturdy links.
+- **Base Design:** Utilized a cardboard box as the base to provide stability and save time during assembly.
+- **Cost Efficiency:** Successfully completed the project with a budget of 90 BEC Bucks out of the allocated 250.
+- **Fast Build:** Completed brainstorming, construction, and testing under the competition's tight time constraints.
+  
+**Presentation Video:** [Watch the Presentation](https://youtu.be/TrNpwvOBCMM)
+**Repository Link:** [BCIT Engineering Competition Repository](https://github.com/trungkhang111005/BCIT-Engineering-Competition.git)
+
+
 
 ## Project 1: 3D Printed RC Car
 **Description:** Designed and 3D-printed an RC car modeled after a real-sized automobile. The project aimed to replicate the design and function of a modern vehicle in a scaled-down version.
