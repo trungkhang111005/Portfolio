@@ -34,6 +34,7 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 - **Motion Control:** Implemented PID controllers for smooth steering and speed regulation.
 - **3D Printing & Assembly:** Printed the components and successfully assembled them to create a functional prototype.
 
+**Presentation Video:** [Watch me talking about the car](https://youtu.be/J6uigz7IrvU)
 **Repository Link:** [3D Printed RC Car Repository](https://github.com/trungkhang111005/psychic-engine.git)
 
 
