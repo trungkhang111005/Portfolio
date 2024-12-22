@@ -22,7 +22,8 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 - **Fast Build:** Completed brainstorming, construction, and testing under the competition's tight time constraints.
   
 **Presentation Video:** [Watch the Presentation](https://youtu.be/TrNpwvOBCMM)
-**Repository Link:** [BCIT Engineering Competition Repository](https://github.com/trungkhang111005/BCIT-Engineering-Competition.git)
+
+**Repository Link:** [BCIT Engineering Competition Repository](https://github.com/trungkhang111005/BCIT-Engineering-Competition-2024.git)
 
 
 
@@ -36,6 +37,7 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 - **3D Printing & Assembly:** Printed the components and successfully assembled them to create a functional prototype.
 
 **Presentation Video:** [Watch me talking about the car](https://youtu.be/J6uigz7IrvU)
+
 **Repository Link:** [3D Printed RC Car Repository](https://github.com/trungkhang111005/psychic-engine.git)
 
 
