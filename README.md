@@ -38,6 +38,8 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 
 **Presentation Video:** [Watch me talking about the car](https://youtu.be/J6uigz7IrvU)
 
+[Car Drifting](https://youtu.be/YaZgg8Mr1b0?feature=shared)
+
 **Repository Link:** [3D Printed RC Car Repository](https://github.com/trungkhang111005/psychic-engine.git)
 
 
