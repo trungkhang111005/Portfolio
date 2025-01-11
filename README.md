@@ -5,9 +5,11 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 
 ## Table of Contents
 - [Competition](#competition-1-bcit-engineering-competition-2024)
-- [Project 1: 3D Printed RC Car](#project-1-3d-printed-rc-car)
+- [Project 1: Humanoid Robot Modeled and Trained in Simulation (In Progress)](#project-1-humanoid-robot-modeled-and-trained-in-simulation-in-progress)
 - [Project 2: Sticker Identification for Kid's Game](#project-2-sticker-identification-for-kids-game-in-nesters-market)
-- [Project 3: Humanoid Robot Modeled and Trained in Simulation (In Progress)](#project-3-humanoid-robot-modeled-and-trained-in-simulation-in-progress)
+- [Project 3: 3D Printed RC Car](#project-3-3d-printed-rc-car)
+- [Project 4: Software SPI on MSP430](#project-4-software-spi-on-msp430)
+- [Project 5: SCARA Drawing Robot](#project-5-scara-robot-drawing)
 - [Contact Information](#contact-information)
 
 ## Competition 1: BCIT Engineering Competition 2024
@@ -27,7 +29,30 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 
 
 
-## Project 1: 3D Printed RC Car
+## Project 1: Humanoid Robot Modeled and Trained in Simulation (In Progress)
+**Description:** Currently working on designing and simulating a humanoid robot based on the Bruce robot from WESTWOOD Robotics. The project involves replicating the humanoid design and training the robot in a virtual simulation environment.
+
+**Key Features & Technologies:**
+- **3D Modeling & Simulation:** Using Solidworks and ROS/Gazebo to model and simulate the robot’s design and functionalities.
+- **Motion Planning & Control:** Working on implementing algorithms for dynamic motion control and balance.
+- **Reinforcement Learning:** Training the robot to perform basic movements and tasks using reinforcement learning algorithms.
+- **Design Inspiration:** The robot’s design and capabilities are inspired by the Bruce robot from WESTWOOD Robotics.
+
+**Repository Link:** [Humanoid Robot Repository (In Progress)](https://github.com/trungkhang111005/Adam.git)
+
+
+## Project 2: Sticker Identification for Kid's Game in Nesters Market
+**Description:** Developed a computer vision system to identify and differentiate stickers for a kid’s game as part of a project for Nesters Market. The goal was to enable a robotic or automated system to recognize stickers and trigger corresponding game actions.
+
+**Key Features & Technologies:**
+- **Computer Vision:** Created image processing algorithms using Feature Matching (OpenCV) in Python to detect and classify stickers based on edges and pattern .
+- **Actuation:** The result of the image recognition process is used to actuate a servo for a kids' game in Nesters Market where I work part time.
+- **Real-World Testing:** Deployed the system in a controlled environment at Nesters Market for live testing with children.
+
+**Repository Link:** [Sticker Identification System Repository](https://github.com/trungkhang111005/Amanda.git)
+
+
+## Project 3: 3D Printed RC Car
 **Description:** Designed and 3D-printed an RC car modeled after a real-sized automobile. The project aimed to replicate the design and function of a modern vehicle in a scaled-down version.
 
 **Key Features & Technologies:**
@@ -45,28 +70,6 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 **Repository Link:** [3D Printed RC Car Repository](https://github.com/trungkhang111005/psychic-engine.git)
 
 
-## Project 2: Sticker Identification for Kid's Game in Nesters Market
-**Description:** Developed a computer vision system to identify and differentiate stickers for a kid’s game as part of a project for Nesters Market. The goal was to enable a robotic or automated system to recognize stickers and trigger corresponding game actions.
-
-**Key Features & Technologies:**
-- **Computer Vision:** Created image processing algorithms using Feature Matching (OpenCV) in Python to detect and classify stickers based on edges and pattern .
-- **Actuation:** The result of the image recognition process is used to actuate a servo for a kids' game in Nesters Market where I work part time.
-- **Real-World Testing:** Deployed the system in a controlled environment at Nesters Market for live testing with children.
-
-**Repository Link:** [Sticker Identification System Repository](https://github.com/trungkhang111005/Amanda.git)
-
-
-## Project 3: Humanoid Robot Modeled and Trained in Simulation (In Progress)
-**Description:** Currently working on designing and simulating a humanoid robot based on the Bruce robot from WESTWOOD Robotics. The project involves replicating the humanoid design and training the robot in a virtual simulation environment.
-
-**Key Features & Technologies:**
-- **3D Modeling & Simulation:** Using Solidworks and ROS/Gazebo to model and simulate the robot’s design and functionalities.
-- **Motion Planning & Control:** Working on implementing algorithms for dynamic motion control and balance.
-- **Reinforcement Learning:** Training the robot to perform basic movements and tasks using reinforcement learning algorithms.
-- **Design Inspiration:** The robot’s design and capabilities are inspired by the Bruce robot from WESTWOOD Robotics.
-
-**Repository Link:** [Humanoid Robot Repository (In Progress)](https://github.com/trungkhang111005/Adam.git)
-
 ## Project 4: Software SPI on MSP430
 **Description:** Developed a software-based SPI (Serial Peripheral Interface) receiver for the MSP430 microcontroller using assembly code. The project aimed to demonstrate low-level SPI communication without hardware support by leveraging GPIO manipulation and precise timing.
 
@@ -80,7 +83,7 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 **Repository Link:** [Software SPI Repository](https://github.com/trungkhang111005/software-spi.git)
 
 
-## Project 5: SCARA Drawing Robot
+## Project 5: SCARA Robot Drawing 
 **Description:** Created a SCARA (Selective Compliance Assembly Robot Arm) robot capable of drawing intricate designs and shapes by utilizing inverse kinematics and path generation. This project demonstrates precision in robotic movement and control, translating geometric paths into complex, continuous drawings.
 
 **Key Features & Technologies:**
