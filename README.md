@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 - [Competition](#competition-1-bcit-engineering-competition-2024)
 - [Project 1: Humanoid Robot Modeled and Trained in Simulation (In Progress)](#project-1-humanoid-robot-modeled-and-trained-in-simulation-in-progress)
 - [Project 2: Sticker Identification for Kid's Game](#project-2-sticker-identification-for-kids-game-in-nesters-market)
-- [Project 3: 3D Printed RC Car](#project-3-3d-printed-rc-car)
+- [Project 3: RC Car](#project-3-rc-car)
 - [Project 4: Software SPI on MSP430](#project-4-software-spi-on-msp430)
 - [Project 5: SCARA Drawing Robot](#project-5-scara-robot-drawing)
 - [Contact Information](#contact-information)
@@ -56,7 +56,7 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 
 **Repository Link:** [Sticker Identification System Repository](https://github.com/trungkhang111005/Amanda.git)
 
-## Project 3: 3D Printed RC Car
+## Project 3: RC Car
 
 <div style="text-align: center;">
     <img src="./images/RC-car.png" width="400" alt="psychic-engine">
