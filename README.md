@@ -11,6 +11,7 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 - [Project 4: Software SPI on MSP430](#project-4-software-spi-on-msp430)
 - [Project 5: SCARA Drawing Robot](#project-5-scara-robot-drawing)
 - [Contact Information](#contact-information)
+  
 
 ## Competition 1: BCIT Engineering Competition 2024
 
@@ -23,13 +24,18 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 - **Cost Efficiency:** Successfully completed the project with a budget of 90 BEC Bucks out of the allocated 250.
 - **Fast Build:** Completed brainstorming, construction, and testing under the competition's tight time constraints.
   
-**Presentation Video:** [Watch the Presentation](https://youtu.be/TrNpwvOBCMM)
+**Presentation Video:** 
+
+[![Watch the Presentation](./images/thumbnail2.png)](https://youtu.be/TrNpwvOBCMM)
 
 **Repository Link:** [BCIT Engineering Competition Repository](https://github.com/trungkhang111005/BCIT-Engineering-Competition-2024.git)
 
-
-
 ## Project 1: Humanoid Robot Modeled and Trained in Simulation (In Progress)
+
+<div style="text-align: center;">
+    <img src="./images/bipedal-img3.png" width="500" alt="psychic-engine">
+</div>
+
 **Description:** Currently working on designing and simulating a humanoid robot based on the Bruce robot from WESTWOOD Robotics. The project involves replicating the humanoid design and training the robot in a virtual simulation environment.
 
 **Key Features & Technologies:**
@@ -39,7 +45,6 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 - **Design Inspiration:** The robot’s design and capabilities are inspired by the Bruce robot from WESTWOOD Robotics.
 
 **Repository Link:** [Humanoid Robot Repository (In Progress)](https://github.com/trungkhang111005/Adam.git)
-
 
 ## Project 2: Sticker Identification for Kid's Game in Nesters Market
 **Description:** Developed a computer vision system to identify and differentiate stickers for a kid’s game as part of a project for Nesters Market. The goal was to enable a robotic or automated system to recognize stickers and trigger corresponding game actions.
@@ -51,8 +56,12 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 
 **Repository Link:** [Sticker Identification System Repository](https://github.com/trungkhang111005/Amanda.git)
 
-
 ## Project 3: 3D Printed RC Car
+
+<div style="text-align: center;">
+    <img src="./images/RC-car.png" width="500" alt="psychic-engine">
+</div>
+
 **Description:** Designed and 3D-printed an RC car modeled after a real-sized automobile. The project aimed to replicate the design and function of a modern vehicle in a scaled-down version.
 
 **Key Features & Technologies:**
@@ -61,14 +70,11 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 - **Motion Control:** Implemented PID controllers for smooth steering and speed regulation.
 - **3D Printing & Assembly:** Printed the components and successfully assembled them to create a functional prototype.
 
-**Presentation Video:** 
+**Presentation Videos** 
 
-[Watch me talking about the car](https://youtu.be/J6uigz7IrvU)
-
-[Car Drifting](https://youtu.be/YaZgg8Mr1b0?feature=shared)
+[![Watch me talking about the RC car and a demo of it in action](./images/thumbnail.png)](https://youtu.be/J6uigz7IrvU)                       [![Watch the car drifting](./images/thumbnail3.png)](https://youtu.be/YaZgg8Mr1b0?feature=shared)
 
 **Repository Link:** [3D Printed RC Car Repository](https://github.com/trungkhang111005/psychic-engine.git)
-
 
 ## Project 4: Software SPI on MSP430
 **Description:** Developed a software-based SPI (Serial Peripheral Interface) receiver for the MSP430 microcontroller using assembly code. The project aimed to demonstrate low-level SPI communication without hardware support by leveraging GPIO manipulation and precise timing.
@@ -82,8 +88,10 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
   
 **Repository Link:** [Software SPI Repository](https://github.com/trungkhang111005/software-spi.git)
 
-
 ## Project 5: SCARA Robot Drawing 
+
+<img src="images/psycho-jenny-mapping.png" alt="Image description" width="610" />       <img src="images/psycho_jenny_drawing.png" alt="Image description" width="390" />
+
 **Description:** Created a SCARA (Selective Compliance Assembly Robot Arm) robot capable of drawing intricate designs and shapes by utilizing inverse kinematics and path generation. This project demonstrates precision in robotic movement and control, translating geometric paths into complex, continuous drawings.
 
 **Key Features & Technologies:**
