@@ -1,6 +1,6 @@
 # Kai's Robotics Portfolio
 
-Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with experience in 3D modeling, computer vision, embedded systems, and robotics simulation. Below, you'll find detailed information on my primary projects. Feel free to explore the code and reach out with any questions or feedback.
+Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with experience in Automation, 3D modeling, computer vision, embedded systems, and robotics simulation. Below, you'll find detailed information on my primary projects. Feel free to explore the code and reach out with any questions or feedback.
 
 
 ## Table of Contents
