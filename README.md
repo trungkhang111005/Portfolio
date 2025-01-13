@@ -33,7 +33,7 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 ## Project 1: Humanoid Robot Modeled and Trained in Simulation (In Progress)
 
 <div style="text-align: center;">
-    <img src="./images/bipedal-img3.png" width="500" alt="psychic-engine">
+    <img src="./images/bipedal-img3.png" width="300" alt="psychic-engine">
 </div>
 
 **Description:** Currently working on designing and simulating a humanoid robot based on the Bruce robot from WESTWOOD Robotics. The project involves replicating the humanoid design and training the robot in a virtual simulation environment.
@@ -59,7 +59,7 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 ## Project 3: 3D Printed RC Car
 
 <div style="text-align: center;">
-    <img src="./images/RC-car.png" width="500" alt="psychic-engine">
+    <img src="./images/RC-car.png" width="400" alt="psychic-engine">
 </div>
 
 **Description:** Designed and 3D-printed an RC car modeled after a real-sized automobile. The project aimed to replicate the design and function of a modern vehicle in a scaled-down version.
@@ -90,7 +90,7 @@ Welcome to my GitHub portfolio! I am a passionate robotics enthusiast with exper
 
 ## Project 5: SCARA Robot Drawing 
 
-<img src="images/psycho-jenny-mapping.png" alt="Image description" width="610" />       <img src="images/psycho_jenny_drawing.png" alt="Image description" width="390" />
+<img src="images/psycho-jenny-mapping.png" alt="Image description" width="400" />       <img src="images/psycho_jenny_drawing.png" alt="Image description" width="250" />
 
 **Description:** Created a SCARA (Selective Compliance Assembly Robot Arm) robot capable of drawing intricate designs and shapes by utilizing inverse kinematics and path generation. This project demonstrates precision in robotic movement and control, translating geometric paths into complex, continuous drawings.
 
