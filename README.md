@@ -15,6 +15,10 @@ Welcome to my GitHub portfolio! I am a passionate Robotics/Automation enthusiast
 
 ## Competition 1: BCIT Engineering Competition 2024
 
+<div style="text-align: center;">
+    <img src="./images/gripper.jpg" width="250" alt="gripper">
+</div>
+
 **Description:** Participated in the BCIT Engineering Competition (Junior Design), where the goal was to design and build a device to rescue a person ("Fed") from a high-rise building within 2 hours and 45 minutes. The project combined elements of industrial crane mechanisms and delta robot configurations for precision and efficiency.
 
 **Key Features & Technologies:**
@@ -57,7 +61,8 @@ Welcome to my GitHub portfolio! I am a passionate Robotics/Automation enthusiast
 - **Real-World Testing:** Deployed the system in a controlled environment at Nesters Market for live testing with children.
   
 **Presentation Videos** 
-[![Watch me presenting the workflow of the project](./images/Amanda3.jpg)]([https://youtu.be/J6uigz7IrvU](https://youtu.be/s-muMo-hYKM?si=bLqWILIWOQYDSj-r))  
+
+[![Watch me presenting the workflow of the project](./images/thumbnail4.jpg)]([https://youtu.be/J6uigz7IrvU](https://youtu.be/s-muMo-hYKM?si=bLqWILIWOQYDSj-r))  
 
 **Repository Link:** [Sticker Identification System Repository](https://github.com/trungkhang111005/Amanda.git)
 
