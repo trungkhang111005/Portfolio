@@ -47,12 +47,17 @@ Welcome to my GitHub portfolio! I am a passionate Robotics/Automation enthusiast
 **Repository Link:** [Humanoid Robot Repository (In Progress)](https://github.com/trungkhang111005/Adam.git)
 
 ## Project 2: Sticker Identification for Kid's Game in Nesters Market
+<img src="images/Amanda1.jpg" alt="Image description" width="200" /> <img src="images/Amanda2.jpg" alt="Image description" width="300" />
+
 **Description:** Developed a computer vision system to identify and differentiate stickers for a kid’s game as part of a project for Nesters Market. The goal was to enable a robotic or automated system to recognize stickers and trigger corresponding game actions.
 
 **Key Features & Technologies:**
 - **Computer Vision:** Created image processing algorithms using Feature Matching (OpenCV) in Python to detect and classify stickers based on edges and pattern .
 - **Actuation:** The result of the image recognition process is used to actuate a servo for a kids' game in Nesters Market where I work part time.
 - **Real-World Testing:** Deployed the system in a controlled environment at Nesters Market for live testing with children.
+  
+**Presentation Videos** 
+[![Watch me presenting the workflow of the project](./images/Amanda3.jpg)]([https://youtu.be/J6uigz7IrvU](https://youtu.be/s-muMo-hYKM?si=bLqWILIWOQYDSj-r))  
 
 **Repository Link:** [Sticker Identification System Repository](https://github.com/trungkhang111005/Amanda.git)
 
