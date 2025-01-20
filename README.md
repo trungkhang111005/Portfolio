@@ -62,7 +62,7 @@ Welcome to my GitHub portfolio! I am a passionate Robotics/Automation enthusiast
   
 **Presentation Videos** 
 
-[![Watch me presenting the workflow of the project](./images/thumbnail4.jpg)]([https://youtu.be/J6uigz7IrvU](https://youtu.be/s-muMo-hYKM?si=bLqWILIWOQYDSj-r))  
+[![Watch me presenting the workflow of the project](./images/thumbnail4.jpg)](https://youtu.be/s-muMo-hYKM?si=bLqWILIWOQYDSj-r)
 
 **Repository Link:** [Sticker Identification System Repository](https://github.com/trungkhang111005/Amanda.git)
 
